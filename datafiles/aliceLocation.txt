@@ -1,0 +1,3 @@
+LocationA,17
+LocationB,7
+LocationD,9

@@ -1,0 +1,27 @@
+name: alice
+Humidity threshold: 75
+Hearing Condition Type: 1
+pref-1: when HUMIDITY suggest pool 
+pref-2: when NOISE suggest shops 
+pref-3: when WEATHER suggest restaurants
+
+name: george
+Humidity threshold: 80
+Hearing Condition Type: 3
+pref-1: when HUMIDITY suggest restaurants 
+pref-2: when NOISE suggest cinema 
+pref-3: when WEATHER suggest shops
+
+name: jiandong
+Humidity threshold: 55
+Hearing Condition Type: 2
+pref-1: when HUMIDITY suggest shops 
+pref-2: when NOISE suggest cinema 
+pref-3: when WEATHER suggest bowling
+
+name: prateek
+Humidity threshold: 60
+Hearing Condition Type: 3
+pref-1: when HUMIDITY suggest shops 
+pref-2: when NOISE suggest cinema 
+pref-3: when WEATHER suggest bowling

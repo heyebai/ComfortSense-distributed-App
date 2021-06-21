@@ -1,0 +1,3 @@
+LocationA,8
+LocationB,7
+LocationC,14
